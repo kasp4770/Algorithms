@@ -28,6 +28,7 @@ public class SelectionSort {
             arr[i] = smallerNumber;
         }
 
+        //Returnerer "arr"
         return arr;
 
     }
